@@ -1,0 +1,7 @@
+C:\Users\ZnSstr\source\repos\OceBank\OceBank\obj\Debug\OceBank.csprojAssemblyReference.cache
+C:\Users\ZnSstr\source\repos\OceBank\OceBank\obj\Debug\OceBank.csproj.CoreCompileInputs.cache
+C:\Users\ZnSstr\source\repos\OceBank\OceBank\bin\Debug\OceBank.exe.config
+C:\Users\ZnSstr\source\repos\OceBank\OceBank\bin\Debug\OceBank.exe
+C:\Users\ZnSstr\source\repos\OceBank\OceBank\bin\Debug\OceBank.pdb
+C:\Users\ZnSstr\source\repos\OceBank\OceBank\obj\Debug\OceBank.exe
+C:\Users\ZnSstr\source\repos\OceBank\OceBank\obj\Debug\OceBank.pdb

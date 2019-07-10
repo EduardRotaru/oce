@@ -1,0 +1,18 @@
+﻿Cum am inteles enuntul de mai jos:
+
+"
+Conturile bancare pot fi de mai multe feluri: ln RON si ln EURO. 
+Conturile ln EURO si numai ele au o dobanda fixa de  suma depaseste 500 EURO sau 0 ln caz contrar, deci acest tip de cont trebuie sa ofere serviciul de obtinere a dobanzii. 
+Pot exista transferuri Intre conturile ln RON si numai Intre ele, ln sensul ca un cont de acest tip trebuie sa ofere serviciul de transfer intre doua conturi. 
+Toate conturile implementeaza o interfata SumaTotala care are o metoda de obtinere a sumei din cont. 
+Pentru conturile ln RON suma totala este chiar suma existenta ln cont iar pentru conturile ln EURO este suma*4.2.
+"
+
+Am facut 1 enum cu 2 tipuri de conturi 
+Transferurile sunt permise doar intre conturi de acelasi fel deoarece nu am vazut sa existe o conversie intre transferuri.
+
+Exemplu: 
+Euro si Euro (nementionat)
+RON si Ron
+Dar nu e mentionat nimic despre Euro si Ron.
+SumTotal este implementata ca enunt.
